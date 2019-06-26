@@ -1,3 +1,2 @@
 # JavaProject
-Repositório com código de programa para atendimento
-Ainda está sendo atualizado!
+Repositório com código de programa para atendimento, ainda está sendo atualizado!
