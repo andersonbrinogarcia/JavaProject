@@ -10,8 +10,8 @@ public class ConnectionFactory {
 			Class.forName("com.mysql.cj.jdbc.Driver");
 			
 			String url = "jdbc:mysql://localhost:3306/salao?useTimezone=true&serverTimezone=UTC";
-			String user = "salao";
-			String pass = "Fatima@161291";
+			String user = "nome do banco";
+			String pass = "*********";
 			
 			return DriverManager.getConnection(url, user, pass);
 		} catch (ClassNotFoundException e) {
